@@ -1,0 +1,6 @@
+dependencies {
+    compile libs.springBoot
+    compile libs.springDataMongodb
+    compile libs.daas
+
+}
